@@ -1,10 +1,10 @@
 # 👋 Hi! I'm Maksym Kopyl
 
-🚀 **Frontend Developer**  
-💻 Specializing in Vue.js, Nuxt.js, React, Angular, TypeScript  
+🚀 **Javascript Developer**  
+💻 Specializing in Vue.js, Nuxt.js, React, Angular, TypeScript, Nest.js  
 
 ## 🔥 About Me  
-- **5+ years** of experience in web development, focusing on **Vue.js, React.js, Angular**  
+- **7+ years** of experience in web development, focusing on **Vue.js, React.js, Angular**  
 - Expertise in **scalable architecture** and leading **frontend teams**  
 - Deep knowledge of **Solidity and Web3.js**, blockchain integration  
 - Experience with **REST API, WebSockets, Docker, CI/CD**  
